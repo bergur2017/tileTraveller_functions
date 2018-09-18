@@ -1,0 +1,3 @@
+goal = "hehe"
+
+print(goal)
